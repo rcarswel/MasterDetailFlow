@@ -58,7 +58,7 @@ public class WebsiteDetailFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(
-                R.layout.activity_website_detail, container, false);
+                R.layout.website_detail, container, false);
 
         // Show the dummy content as text in a TextView.
         if (mItem != null) {

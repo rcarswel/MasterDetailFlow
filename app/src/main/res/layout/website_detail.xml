@@ -3,4 +3,4 @@
     android:id="@+id/website_detail"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.ebookfrenzy.masterdetailflow.WebsiteDetailFragment"></WebView>
+    tools:context="edu.westga.cs6242.masterdetailflow.WebsiteDetailFragment"></WebView>
